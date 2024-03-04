@@ -1,0 +1,22 @@
+{
+    "plsdonatemodded": {
+        "Active": true,
+        "RewardType": "Robux",
+        "RewardValue": "100000"
+    },
+    "blux": {
+        "Active": true,
+        "RewardType": "Giftbux",
+        "RewardValue": "50000"
+    },
+    "sickuu0": {
+        "Active": true,
+        "RewardType": "Robux",
+        "RewardValue": "250000"
+    },
+    "robux": {
+        "Active": true,
+        "RewardType": "Robux",
+        "RewardValue": "100000"
+    }
+}
