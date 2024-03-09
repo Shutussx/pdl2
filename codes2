@@ -1,0 +1,22 @@
+{
+    "xuataun": {
+        "Active": true,
+        "RewardType": "Giftbux",
+        "RewardValue": "25"
+    },
+    "dev": {
+        "Active": true,
+        "RewardType": "Giftbux",
+        "RewardValue": "50"
+    },
+    "Hazem": {
+        "Active": true,
+        "RewardType": "Robux",
+        "RewardValue": "10000"
+    },
+    "plsdonatez": {
+        "Active": true,
+        "RewardType": "Robux",
+        "RewardValue": "100000"
+    }
+}
